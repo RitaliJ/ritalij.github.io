@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ritali Jain / Site Title"
+title                    : "Ritali Jain / Caltech Undergrad"
 title_separator          : "-"
 name                     : &name "Ritali Jain"
 description              : &description "EE/Applied Math"
@@ -29,7 +29,7 @@ author:
   location         : "Pasadena ~ Bay Area"
   employer         : "California Institute of Technology"
   uri              : # URL
-  email            : "rjain@caltech.edus" 
+  email            : "rjain@caltech.edu" 
 
   # Academic websites
   academia         : # URL
