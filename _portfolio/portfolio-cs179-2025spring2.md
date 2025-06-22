@@ -1,12 +1,11 @@
 ---
 title: "Joint Vertex Time Graph Signal Processing for Dynamic Mesh Data"
-excerpt: "Accelerating low pass and nonseparable wave filtering of spatiotemporal dancer data <br/><img src='/images/500x300.png'>"
+excerpt: "(GPUs) Accelerating low pass and nonseparable wave filtering of spatiotemporal dancer data <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
 # Fast Fourier–Chebyshev Filtering on CPU & GPU
 
----
 
 ## Abstract
 This project demonstrates a CUDA implementation of a fast Fourier–Chebyshev (FFC)
