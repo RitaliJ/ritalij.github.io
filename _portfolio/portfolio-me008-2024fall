@@ -1,3 +1,9 @@
+---
+title: "Ball Tracking Robot Arm"
+excerpt: "Four dofs robot built and programmed to track balls + other objects<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 [Software Architecture and Implementation](https://ritalij.github.io/files/me008_softwarearchitectureimplementation.pdf)
 
 The objective of the system is to control two motors based on user-controlled events, specifically, to control the motion of the robot (two degrees of freedom) based on key controls. We also want to ensure that the robot moves as quickly as possible (under its max velocity) as well as smoothly.
