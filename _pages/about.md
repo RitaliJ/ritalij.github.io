@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Biological systems + physical processes from a theoretical computer science framework
-
 Hi! My name is Ritali, and I'm a rising junior at Caltech. My broad academic interests lie in exploring the
 behavior and dynamics of complex systems. I'm interested in understanding how a simple set of rules or a group of properties/equations can give rise to fascinating emergent phenomena.
 
@@ -17,6 +14,7 @@ Lucky for me, there exists a plethora of fields that fall under this framework, 
 
 From molecular and neural systems to machine learning paradigms to economic and financial systems, I seek to understand how perturbations or signals received in one component of a system can attentuate and yield a larger change. Graph theory, network science, and signal processing are some application-based areas that provide a foundation for approaching such questions. I've also worked closely with theoretical computer science and mathematics approaches to problems. Specifically, I've employed these ideas in my theoretical molecular computing work in [Professor Erik Winfree's DNA and Algorithms Lab](https://www.dna.caltech.edu/) at Caltech, where I've completed an independent project to understand how a self-assembling system might be capable of computing solutions to hard problems.
 
+<!-- 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -57,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
