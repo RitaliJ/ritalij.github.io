@@ -1,6 +1,6 @@
 ---
 title: "Ball Tracking Robot Arm"
-excerpt: "(Robotics, Software) Four dofs robot built and programmed to track balls + other objects<br/><img src='/images/500x300.png'>"
+excerpt: "(Robotics, Software) Four dofs robot built and programmed to track balls + other objects<br/><img src='/images/me008-2024fall.png'>"
 collection: portfolio
 ---
 

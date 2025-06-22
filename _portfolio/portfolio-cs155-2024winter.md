@@ -1,6 +1,6 @@
 ---
 title: "Hidden Markov Models for Generation of Shakespeare Sonnets"
-excerpt: "(ML) Four dofs robot built and programmed to track balls + other objects<br/><img src='/images/500x300.png'>"
+excerpt: "(ML) Four dofs robot built and programmed to track balls + other objects<br/><img src='/images/cs155-2024winter-clouds.png'>"
 collection: portfolio
 ---
 

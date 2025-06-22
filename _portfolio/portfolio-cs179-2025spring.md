@@ -1,6 +1,6 @@
 ---
 title: "Qwen2 LLM / Transformer Inference accelerated on GPU"
-excerpt: "(ML, GPUs) Transformer Inference Logic and Kernels written from scratch on GPU <br/><img src='/images/500x300.png'>"
+excerpt: "(ML, GPUs) Transformer Inference Logic and Kernels written from scratch on GPU <br/><img src='/images/cs179-2025-spring-llm.png'>"
 collection: portfolio
 ---
 # Qwen2 Transformer Inference from Scratch (GPU)

@@ -1,6 +1,6 @@
 ---
 title: "Light-responsive vehicle"
-excerpt: "(Robotics, Hardware) Raspberry Pi Pico vehicle detecting and following light source<br/><img src='/images/500x300.png'>"
+excerpt: "(Robotics, Hardware) Raspberry Pi Pico vehicle detecting and following light source<br/><img src='/images/cs012-2023winter.png'>"
 collection: portfolio
 ---
 

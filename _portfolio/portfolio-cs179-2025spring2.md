@@ -1,6 +1,6 @@
 ---
 title: "Joint Vertex Time Graph Signal Processing for Dynamic Mesh Data"
-excerpt: "(GPUs) Accelerating low pass and nonseparable wave filtering of spatiotemporal dancer data <br/><img src='/images/500x300.png'>"
+excerpt: "(GPUs) Accelerating low pass and nonseparable wave filtering of spatiotemporal dancer data <br/><img src='/images/cs179-2025spring-gpu.png'>"
 collection: portfolio
 ---
 
