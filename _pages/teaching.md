@@ -2,14 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I have TAed at Caltech.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+{% assign teaching_entries = site.teachings | sort: "importance" %}
+{% for entry in teaching_entries %}
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">{{ entry.title }}</h5>
+    <p class="card-text">{{ entry.description }}</p>
+    {{ entry.content }}
+  </div>
+</div>
+{% endfor %}
