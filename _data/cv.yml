@@ -53,7 +53,7 @@ cv:
         end_date: 2026
         summary: "Instructor: Erik Winfree. Supported about 15 students on molecular computation, self-assembly, and theoretical models."
 
-      - company: CS 143 — Computer Networks: Algorithms and Architecture
+      - company: "CS 143 — Computer Networks: Algorithms and Architecture"
         position: Teaching Assistant
         location: Pasadena, CA
         start_date: 2024
