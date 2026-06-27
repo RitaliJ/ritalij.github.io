@@ -1,17 +1,10 @@
 ---
 layout: page
-title: "Ball Tracking Robot Arm"
-description: "ME 8, Fall 2024 — 4-DOF robot arm that tracks a blue ball using OpenCV color detection"
-img: assets/img/me008-2024fall.png
+title: "Nucleation Kinetics and Molecular Self-Assembly"
+description: "Theoretical and computational study of rare-event nucleation pathways in DNA self-assembly."
 importance: 6
 category: coursework
-tags: [Robotics, Computer Vision, Control Systems]
+tags: [Molecular Computing, Stochastic Modeling, DNA Nanotechnology]
 ---
 
-4-DOF robot arm that tracks a blue ball using OpenCV color detection with HSV thresholding. Smooth motion via cubic splines, 0.01s discrete control intervals, and NumPy vectorized trajectory computation.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/me008-2024fall.png" title="Ball tracking robot arm" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+Studied whether nucleation kinetics in molecular self-assembly can support computation through rare-event pathway formation. The work combined stochastic simulation, forward flux sampling, graph-theoretic modeling, and theoretical reductions to analyze transition-path behavior in combinatorially complex DNA systems. Placeholder image and manuscript links coming soon.

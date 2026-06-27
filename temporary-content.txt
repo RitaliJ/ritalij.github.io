@@ -1,0 +1,310 @@
+%-----------PUBLICATIONS-----------
+\section{Publications, Extended Abstracts, and Manuscripts}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+  {\textbf{On the Computational Power of Nucleation Kinetics}}{DNA32}
+  \resumeItemListStart
+    \resumeItem{\textbf{Ritali Jain}, Cameron Chalk, Yancheng Du, Constantine Evans, and Erik Winfree.}
+    \resumeItem{Published extended abstract and poster, 32nd International Conference on DNA Computing and Molecular Programming. Manuscript under review.}
+    \resumeItem{Studies whether nucleation kinetics in molecular self-assembly can support computation through rare-event pathway formation.}
+    \resumeItem{Connects molecular computation, DNA self-assembly, probabilistic algorithms, statistical mechanics, graph theory, and stochastic simulation.}
+    \resumeItem{Uses computational experiments and forward flux sampling to analyze transition-path behavior in combinatorially complex molecular systems.}
+    \resumeItem{Tools: Python, C.}
+  \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------CONFERENCE PRESENTATIONS-----------
+\section{Conference Presentations and Posters}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+  {\textbf{On the Computational Power of Nucleation Kinetics}}{DNA32}
+  \resumeItemListStart
+    \resumeItem{\textbf{Ritali Jain}, Cameron Chalk, Yancheng Du, Constantine Evans, and Erik Winfree.}
+    \resumeItem{Published extended abstract and poster, 32nd International Conference on DNA Computing and Molecular Programming.}
+    \resumeItem{Presented work on the computational capabilities of nucleation pathways in molecular self-assembly.}
+    \resumeItem{Analyzed rare-event dynamics in algorithmic self-assembly systems using forward flux sampling and theoretical reductions.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Optimal Retinal Ganglion Cell Allocation under Fixed Channel Budgets}}{Accepted}
+  \resumeItemListStart
+    \resumeItem{\textbf{Ritali Jain} and Taekyung Lee. Poster accepted, 9th Annual Conference on Cognitive Computational Neuroscience.}
+    \resumeItem{Informally advised by Markus Meister.}
+    \resumeItem{Developed a computational model for retinal ganglion cell allocation under a fixed neural channel budget.}
+    \resumeItem{Studied how nonuniform sampling and region-wise channel allocation affect image reconstruction quality.}
+    \resumeItem{Used Difference-of-Gaussians-style retinal filtering, allocation constraints, reconstruction objectives, and efficient-coding-inspired analysis.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{CS 145 Food Delivery System Modular Policies}}{Caltech Meeting of the Minds}
+  \resumeItemListStart
+    \resumeItem{Poster presentation, Caltech Meeting of the Minds CMS Poster Session.}
+    \resumeItem{Developed a modular policy framework for dynamic food delivery assignment under time-varying demand and operational constraints.}
+    \resumeItem{Framed the system as a dynamic matching and routing problem with driver availability, order timing, rerouting, and policy-stability considerations.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Caltech SURF Seminar Day}}{2024}
+  \resumeItemListStart
+    \resumeItem{Presented summer research on nucleation kinetics and molecular self-assembly within the DNA and Natural Algorithms Group.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Southern California Conference for Undergraduate Research}}{2024}
+  \resumeItemListStart
+    \resumeItem{Presented undergraduate research on computational and stochastic aspects of molecular self-assembly.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{American Society for Gravitational and Space Research Conference}}{Houston, TX, 2022}
+  \resumeItemListStart
+    \resumeItem{Presented research related to space biosciences and altered-gravity biological systems.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------RESEARCH EXPERIENCE-----------
+\section{Research Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {DNA and Natural Algorithms Group, Winfree Lab}{January 2024 -- Present}
+  {Undergraduate Researcher / SURF Fellow}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Advisors: Erik Winfree, Cameron Chalk, and Yancheng Du.}
+    \resumeItem{Designed and executed a research project studying nucleation kinetics in molecular self-assembly from a theoretical computer science and stochastic simulation perspective.}
+    \resumeItem{Investigated whether rare-event nucleation pathways can encode computational structure in combinatorially complex DNA self-assembly systems.}
+    \resumeItem{Performed theoretical reductions using ideas from probabilistic algorithms, statistical mechanics, graph theory, and molecular programming.}
+    \resumeItem{Implemented simulations for transition-path dynamics and ensemble sampling, including forward flux sampling methods for rare-event estimation.}
+    \resumeItem{Increased sampling throughput from approximately 10--100 samples under traditional kinetic simulation steps to over 5000 samples in comparable computational time scales.}
+    \resumeItem{Prepared published extended abstract, poster, and manuscript associated with DNA32.}
+    \resumeItem{Tools: Python, C, stochastic simulation, forward flux sampling, graph-theoretic modeling.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Optimal Retinal Ganglion Cell Allocation under Fixed Channel Budgets}{2026}
+  {Independent Research Project}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Collaborator: Taekyung Lee. Informal advisor: Markus Meister.}
+    \resumeItem{Studied retinal ganglion cell allocation as a constrained resource allocation problem in computational neuroscience.}
+    \resumeItem{Modeled the effect of fixed channel budgets on image encoding and reconstruction through spatially varying retinal sampling.}
+    \resumeItem{Compared allocation policies for distributing retinal ganglion cells across image regions under efficient-coding-inspired objectives.}
+    \resumeItem{Used signal-processing and computational modeling tools to analyze tradeoffs between uniform allocation, structure-aware allocation, and reconstruction error.}
+    \resumeItem{Accepted for poster presentation at the 9th Annual Conference on Cognitive Computational Neuroscience.}
+  \resumeItemListEnd
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------ENGINEERING EXPERIENCE-----------
+\section{Engineering and Applied Technical Experience}
+\resumeSubHeadingListStart
+
+
+\resumeSubheading
+  {Lunar Trailblazer Mission, NASA Jet Propulsion Laboratory / Caltech}{November 2024 -- Present}
+  {Mission Operations Intern, ACE Role}{Pasadena, CA}
+  \resumeItemListStart
+    \resumeItem{Conducted spacecraft systems simulations in support of Lunar Trailblazer mission operations.}
+    \resumeItem{Performed on-console monitoring of spacecraft signal while interfacing with Deep Space Network operations.}
+    \resumeItem{Worked in a safety-critical mission operations environment involving spacecraft telemetry, systems procedures, and real-time operational constraints.}
+    \resumeItem{Built experience communicating technical information clearly across mission operations contexts.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Goldman Sachs}{Summer 2026}
+  {Incoming Engineering Risk Strats Summer Analyst, Model Risk Management Team}{New York, NY}
+  \resumeItemListStart
+    \resumeItem{Selected for an engineering internship within the Model Risk Management team.}
+    \resumeItem{Expected work at the intersection of quantitative engineering, financial risk systems, model validation, and computational infrastructure.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Boeing, SI\&WS Optics, Photonics and Emerging Technologies Team}{Fall 2026}
+  {Incoming Technology Development Engineering Intern}{El Segundo, CA}
+  \resumeItemListStart
+    \resumeItem{Selected for a technology development engineering internship focused on optics, photonics, and emerging technologies.}
+    \resumeItem{Expected work includes addressing engineering challenges in cutting-edge optical communication systems for space.}
+    \resumeItem{Planned contributions include next-generation solutions for high-data-rate satellite and deep-space communication systems.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------TEACHING EXPERIENCE-----------
+\section{Teaching Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {Teaching Assistant, Signal-Processing Systems and Transforms}{Fall 2025}
+  {EE 111; Instructor: P. P. Vaidyanathan}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Enrollment: approximately 90 students.}
+    \resumeItem{Held office hours for undergraduate and graduate students studying discrete-time signals, transforms, filtering, and signal-processing systems.}
+    \resumeItem{Graded assignments and provided feedback on mathematical derivations, computational problems, and signal-processing concepts.}
+    \resumeItem{Supported student understanding of Fourier analysis, z-transforms, system representations, and filtering.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Teaching Assistant, Biomolecular Computation}{Winter 2026}
+  {CS/BE 191a; Instructor: Erik Winfree}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Enrollment: approximately 15 students.}
+    \resumeItem{Held office hours for an interdisciplinary course on computation in biological and molecular systems.}
+    \resumeItem{Graded assignments involving theoretical models of molecular computation, DNA self-assembly, and biomolecular information processing.}
+    \resumeItem{Contributed to assignment design and course support.}
+    \resumeItem{Helped students connect formal computational models with biochemical and molecular implementations.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Teaching Assistant, Computer Networks: Algorithms and Architecture}{Fall 2024}
+  {CS 143; Instructor: Adam Wierman}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Delivered lectures and office hours for approximately 50 advanced computer science and graduate students.}
+    \resumeItem{Supported student learning in network algorithms, architecture, protocols, and implementation-oriented assignments.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Teaching Assistant, Data Structures}{Winter 2025}
+  {CS 002; Instructor: Adam Blank}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Supported more than 100 students through debugging sessions for Java projects on custom-built data structures.}
+    \resumeItem{Assisted with implementation questions, conceptual explanations, and project troubleshooting.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Peer Academic Coach / Dean's Tutor}{Dates TBD}
+  {Academic Support Role}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Provided academic support to Caltech students through tutoring and peer coaching.}
+    \resumeItem{Helped students develop strategies for technical coursework, time management, and problem-solving.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Hixon Writing Center Peer Tutor}{Dates TBD}
+  {Writing Tutor}{California Institute of Technology}
+  \resumeItemListStart
+    \resumeItem{Supported student writing across technical, scientific, and humanities contexts.}
+    \resumeItem{Provided feedback on clarity, structure, argumentation, and revision strategies.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------PROJECTS-----------
+\section{Selected Technical and Research Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+  {\textbf{Hand Gesture Recognition System} $|$ \emph{Electronic System Prototyping / Final Demo}}{2026}
+  \resumeItemListStart
+    \resumeItem{Built a real-time hand gesture recognition system using a photodiode array, Arduino-based data acquisition, Python serial communication, and lightweight neural-network inference.}
+    \resumeItem{Collected and labeled gesture data from 6-by-7 photodiode frames for four classes: none, peace, C, and T.}
+    \resumeItem{Trained a small PyTorch neural network and exported a TorchScript model for direct real-time loading by the inference host.}
+    \resumeItem{Used brightness-scale augmentation to improve robustness to varying illumination conditions.}
+    \resumeItem{Integrated live acquisition, prediction, and heatmap visualization for final class demonstration.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{CS 145 Food Delivery System Modular Policies} $|$ \emph{Course Project and Poster}}{2026}
+  \resumeItemListStart
+    \resumeItem{Designed a modular policy framework for food delivery assignment under time-varying demand, driver availability, order constraints, and routing considerations.}
+    \resumeItem{Modeled delivery assignment as a dynamic systems and policy-design problem with changing state, operational constraints, and performance tradeoffs.}
+    \resumeItem{Developed modular policies to compare how different assignment rules affect delivery performance, stability, and adaptability.}
+    \resumeItem{Presented project at Caltech Meeting of the Minds CMS Poster Session.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Joint Time-Vertex Dynamic Graph Signal Processing} $|$ \emph{GPU Programming and Algorithms}}{May--June 2025}
+  \resumeItemListStart
+    \resumeItem{Implemented C++ and CUDA versions of the Fast Fourier Chebyshev algorithm for filtering spatiotemporal graph signals.}
+    \resumeItem{Applied low-pass separable filtering and nonseparable wavelet filtering in the Fourier domain to a dynamic dancer mesh.}
+    \resumeItem{Used NVIDIA cuFFT and cuSparse libraries to accelerate graph signal processing computations.}
+    \resumeItem{Achieved a 22x speedup with the GPU implementation relative to CPU baseline.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{GPU-Based Inference Engine for Qwen2 Transformer Architecture} $|$ \emph{GPU Programming}}{May 2025}
+  \resumeItemListStart
+    \resumeItem{Implemented a Qwen2 large language model inference engine on GPU for autoregressive single-token decoding.}
+    \resumeItem{Wrote custom CUDA kernels from scratch for LayerNorm, linear layers, SwiGLU activation, rotary positional embeddings, and attention with grouped-query attention.}
+    \resumeItem{Implemented and optimized key/value cache handling for efficient transformer decoding.}
+    \resumeItem{Optimized GPU memory access patterns and profiled performance at approximately 382 microseconds per layer.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Generative Modeling of Shakespearean Poetry} $|$ \emph{Machine Learning}}{February 2025}
+  \resumeItemListStart
+    \resumeItem{Trained an unsupervised Hidden Markov Model with seven hidden states to generate structured Shakespearean sonnets.}
+    \resumeItem{Analyzed hidden-state dynamics and the learned transition matrix to interpret latent structure in generated poetry.}
+    \resumeItem{Incorporated rhyming constraints and sonnet formatting into sampling.}
+    \resumeItem{Trained character-based Long Short-Term Memory recurrent neural networks with temperature-based sampling.}
+    \resumeItem{Compared HMM and LSTM outputs qualitatively using style, coherence, word diversity, meter, and rhyme.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{China's Participation in Multilateral Organizations} $|$ \emph{Course Paper}}{2026}
+  \resumeItemListStart
+    \resumeItem{Wrote a political economy paper analyzing China's participation in multilateral organizations.}
+    \resumeItem{Examined institutional participation through the lens of international finance, geopolitical influence, strategic legitimacy, and comparative U.S.--China behavior.}
+    \resumeItem{Developed an argument for how multilateral participation can create influence within international institutions while responding to power vacuums created by shifts in U.S. engagement.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Ball Tracking Camera Robot} $|$ \emph{Robotics / Software Engineering}}{November 2024}
+  \resumeItemListStart
+    \resumeItem{Constructed a gimbal with two rotating motors and a camera for autonomous object detection and tracking.}
+    \resumeItem{Controlled gimbal movement using continuous motion planning with polynomial splines and trajectory calculations.}
+    \resumeItem{Developed object detection and tracking using OpenCV-based image processing.}
+    \resumeItem{Integrated controller and detector code using multiple threads, improving baseline detection accuracy to approximately 95\%.}
+  \resumeItemListEnd
+  \vspace{-13pt}
+
+\resumeProjectHeading
+  {\textbf{Run 3 from Cool Math Games Recreation} $|$ \emph{Game Design and Software Engineering}}{June 2024}
+  \resumeItemListStart
+    \resumeItem{Recreated the game \textit{Run} using C, implementing sprites, keyboard handling, and a physics engine.}
+    \resumeItem{Simulated gravity, collisions, and continuous motion in a 3D environment.}
+    \resumeItem{Calculated coordinate transformations for physically coherent rendering and gameplay.}
+  \resumeItemListEnd
+  
+\resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------COURSEWORK-----------
+\section{Selected Coursework}
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+\textbf{Signals, Systems, Information, and Circuits:} Signal-Processing Systems and Transforms; Introduction to Signal Processing from Data; Deterministic Analysis of Systems and Circuits; Physics of Electrical Engineering; Fundamentals of Information Transmission and Storage; Electronic System Prototyping; Electronics Systems and Laboratory. \
+\textbf{Optics, Photonics, and Laboratory Systems:} Introductory Optics and Photonics Laboratory; Electronic System Prototyping; Electronics Systems and Laboratory. \
+\textbf{Probability, Statistics, Data Science, and Econometrics:} Statistical Inference; Introduction to Probability Models; Great Ideas in Data Science; Econometrics. \
+\textbf{Networks, Computation, and Intelligent Systems:} Networks: Structure Economics; Projects in Networking; Vision: From Computational Theory to Neuronal Mechanisms; Biomolecular Computation.
+}}
+\end{itemize}
+\vspace{-16pt}
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+\small{\item{
+\textbf{Programming Languages:} Python, C, C++, CUDA C++, Java, MATLAB, R, Mathematica, Bash. \
+\textbf{Machine Learning and Data Science:} PyTorch, TensorFlow, NumPy, pandas, scikit-learn, XGBoost, probabilistic modeling, neural networks, HMMs, LSTMs, transformer inference, data visualization. \
+\textbf{Signal Processing and Applied Mathematics:} Fourier analysis, z-transforms, filtering, graph signal processing, statistical inference, Bayesian statistics, probability models, convex analysis, graph theory, discrete mathematics. \
+\textbf{Systems, Hardware, and Laboratory Tools:} Arduino, Raspberry Pi, photodiode arrays, serial communication, oscilloscopes, circuit prototyping, electronics laboratory methods, optics/photonics laboratory methods. \
+\textbf{GPU and High-Performance Computing:} CUDA, custom GPU kernels, cuFFT, cuSparse, memory access optimization, transformer inference acceleration, graph filtering acceleration. \
+\textbf{Research Methods:} Forward flux sampling, stochastic simulation, rare-event sampling, computational modeling, theoretical reductions, technical writing, poster preparation.
+}}

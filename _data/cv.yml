@@ -4,7 +4,7 @@ cv:
   email: rjain@caltech.edu
   location: Pasadena, CA
   image: ""
-  summary: EE & Applied Math student at Caltech interested in complex systems, graph theory, network science, and molecular computing.
+  summary: EE & Applied Mathematics student at Caltech interested in complex systems, molecular computing, signal processing, and computational neuroscience.
 
   social_networks:
     - network: GitHub
@@ -25,23 +25,57 @@ cv:
           - "Expected graduation: 2027"
 
     Research:
-      - company: Winfree DNA and Algorithms Lab, Caltech
-        position: Independent Research
+      - company: DNA and Natural Algorithms Group, Caltech
+        position: Undergraduate Researcher / SURF Fellow
         location: Pasadena, CA
-        start_date: 2023
-        summary: Theoretical molecular computing and self-assembly. Investigating how self-assembling systems can compute solutions to computationally hard problems.
+        start_date: 2024
+        end_date: Present
+        summary: Studied nucleation kinetics and molecular self-assembly through stochastic simulation, forward flux sampling, graph-theoretic modeling, and theoretical reductions.
+
+      - company: Independent Research Project
+        position: Researcher
+        location: Pasadena, CA
+        start_date: 2026
+        summary: Investigated retinal ganglion cell allocation under fixed channel budgets through efficient-coding-inspired modeling and reconstruction objectives.
 
     Teaching:
-      - company: CS 143 — Networks, Algorithms & Architecture
+      - company: EE 111 — Signal-Processing Systems and Transforms
         position: Teaching Assistant
-        location: Caltech
-        start_date: 2024
-        end_date: 2024
-        summary: "Instructor: Adam Wierman. Weekly office hours, grading proof-based problem sets, feedback on student research presentations."
-
-      - company: CS 2 — Data Structures
-        position: Teaching Assistant
-        location: Caltech
+        location: Pasadena, CA
         start_date: 2025
         end_date: 2025
-        summary: "Instructor: Adam Blank. TAed 6 projects including Ciphers, Hangman, Synthesizer, Markov Model, and BeaverMaps."
+        summary: "Instructor: P. P. Vaidyanathan. Supported about 90 students in office hours and grading for discrete-time signals, transforms, filtering, and system analysis."
+
+      - company: CS/BE 191a — Biomolecular Computation
+        position: Teaching Assistant
+        location: Pasadena, CA
+        start_date: 2026
+        end_date: 2026
+        summary: "Instructor: Erik Winfree. Supported about 15 students on molecular computation, self-assembly, and theoretical models."
+
+      - company: CS 143 — Computer Networks: Algorithms and Architecture
+        position: Teaching Assistant
+        location: Pasadena, CA
+        start_date: 2024
+        end_date: 2024
+        summary: Delivered lectures and office hours for advanced computer science and graduate students in networking algorithms and architecture.
+
+    Engineering:
+      - company: Lunar Trailblazer Mission, NASA Jet Propulsion Laboratory / Caltech
+        position: Mission Operations Intern, ACE Role
+        location: Pasadena, CA
+        start_date: 2024
+        end_date: Present
+        summary: Conducted spacecraft systems simulations and supported mission operations monitoring in a safety-critical environment.
+
+      - company: Goldman Sachs
+        position: Incoming Engineering Risk Strats Summer Analyst
+        location: New York, NY
+        start_date: 2026
+        summary: Incoming internship on the Model Risk Management team at the intersection of quantitative engineering and risk systems.
+
+      - company: Boeing, SI&WS Optics, Photonics and Emerging Technologies Team
+        position: Incoming Technology Development Engineering Intern
+        location: El Segundo, CA
+        start_date: 2026
+        summary: Incoming internship focused on optics, photonics, and emerging technologies for space communication systems.

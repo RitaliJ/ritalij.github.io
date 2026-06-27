@@ -1,17 +1,10 @@
 ---
 layout: page
-title: "Qwen2 LLM Inference on GPU"
-description: "CS 179, Spring 2025 — GPU inference engine for Qwen2 LLM written from scratch"
-img: assets/img/cs179-2025spring-llm.png
+title: "GPU-Based Inference Engine for Qwen2 Transformer Architecture"
+description: "Custom CUDA implementation of autoregressive transformer decoding for Qwen2."
 importance: 4
 category: coursework
 tags: [GPU Computing, CUDA, ML Systems]
 ---
 
-GPU inference engine for the Qwen2 LLM written from scratch — no cuBLAS or CUTLASS. Custom CUDA kernels for LayerNorm, linear layers, SwiGLU activation, Rotary Positional Encoding (RoPE), and grouped-query attention. Uses bfloat16 weights with float32 accumulation.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cs179-2025spring-llm.png" title="Qwen2 LLM GPU inference" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+Implemented a Qwen2 large-language-model inference engine on GPU for autoregressive single-token decoding. The work included custom CUDA kernels for LayerNorm, linear layers, SwiGLU activation, rotary positional embeddings, and grouped-query attention, along with optimization of key/value cache handling. Placeholder image and implementation notes coming soon.
