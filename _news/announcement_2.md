@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-01 00:00:00-0700
+date: 2026-05-20 00:00:00-0700
 inline: true
 related_posts: false
 ---
 
-Placeholder: conference, paper submission, or award — to be filled in.
+*Optimal Retinal Ganglion Cell Allocation under Fixed Channel Budgets* was accepted for a poster presentation at the 9th Annual Conference on Cognitive Computational Neuroscience!
