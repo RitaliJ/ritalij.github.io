@@ -398,53 +398,53 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-on-the-computational-power-of-nucleation-kinetics-was-accepted-as-a-track-c-submission-at-the-32nd-international-conference-on-dna-computing-and-molecular-programming-dna32",
+            },},{id: "news-optimal-retinal-ganglion-cell-allocation-under-fixed-channel-budgets-was-accepted-for-a-poster-presentation-at-the-9th-annual-conference-on-cognitive-computational-neuroscience",
+          title: 'Optimal Retinal Ganglion Cell Allocation under Fixed Channel Budgets was accepted for a...',
+          description: "",
+          section: "News",},{id: "news-on-the-computational-power-of-nucleation-kinetics-was-accepted-as-a-track-c-submission-at-the-32nd-international-conference-on-dna-computing-and-molecular-programming-dna32",
           title: 'On the computational power of nucleation kinetics was accepted as a Track C...',
           description: "",
           section: "News",},{id: "news-started-my-internship-at-goldman-sachs-as-an-engineering-risk-strats-summer-analyst-in-the-model-risk-management-team",
           title: 'Started my internship at Goldman Sachs as an Engineering Risk Strats Summer Analyst...',
           description: "",
-          section: "News",},{id: "news-optimal-retinal-ganglion-cell-allocation-under-fixed-channel-budgets-was-accepted-for-a-poster-presentation-at-the-9th-annual-conference-on-cognitive-computational-neuroscience",
-          title: 'Optimal Retinal Ganglion Cell Allocation under Fixed Channel Budgets was accepted for a...',
-          description: "",
-          section: "News",},{id: "projects-run-in-c",
-          title: 'Run in C',
-          description: "CS 3, Spring 2024 — C-based implementation of Run from Cool Math Games with custom physics engine",
+          section: "News",},{id: "projects-hand-gesture-recognition-system",
+          title: 'Hand Gesture Recognition System',
+          description: "Real-time gesture recognition using a photodiode array, Arduino acquisition, and a PyTorch inference model.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-light-responsive-vehicle",
-          title: 'Light-Responsive Vehicle',
-          description: "CS 12, Winter 2023 — Raspberry Pi Pico robot car that detects and follows a flashlight beam",
+            },},{id: "projects-cs-145-food-delivery-system-modular-policies",
+          title: 'CS 145 Food Delivery System Modular Policies',
+          description: "Modular policy framework for dynamic food delivery assignment under changing demand and routing constraints.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-hmms-for-sonnet-generation",
-          title: 'HMMs for Sonnet Generation',
-          description: "CS 155, Winter 2024 — Hidden Markov Models and LSTM for Shakespeare sonnet generation",
+            },},{id: "projects-joint-time-vertex-dynamic-graph-signal-processing",
+          title: 'Joint Time-Vertex Dynamic Graph Signal Processing',
+          description: "CUDA and C++ implementation of Fast Fourier–Chebyshev filtering for dynamic graph signals.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-qwen2-llm-inference-on-gpu",
-          title: 'Qwen2 LLM Inference on GPU',
-          description: "CS 179, Spring 2025 — GPU inference engine for Qwen2 LLM written from scratch",
+            },},{id: "projects-gpu-based-inference-engine-for-qwen2-transformer-architecture",
+          title: 'GPU-Based Inference Engine for Qwen2 Transformer Architecture',
+          description: "Custom CUDA implementation of autoregressive transformer decoding for Qwen2.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-joint-vertex-time-graph-signal-processing",
-          title: 'Joint Vertex-Time Graph Signal Processing',
-          description: "CS 179, Spring 2025 — CUDA implementation of Fast Fourier–Chebyshev filter for 3D time-vertex meshes",
+            },},{id: "projects-generative-modeling-of-shakespearean-poetry",
+          title: 'Generative Modeling of Shakespearean Poetry',
+          description: "HMM and LSTM-based sonnet generation with structure-aware sampling.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-ball-tracking-robot-arm",
-          title: 'Ball Tracking Robot Arm',
-          description: "ME 8, Fall 2024 — 4-DOF robot arm that tracks a blue ball using OpenCV color detection",
+            },},{id: "projects-nucleation-kinetics-and-molecular-self-assembly",
+          title: 'Nucleation Kinetics and Molecular Self-Assembly',
+          description: "Theoretical and computational study of rare-event nucleation pathways in DNA self-assembly.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-signal-processing-systems-and-transforms",
+          title: 'Signal-Processing Systems and Transforms',
+          description: "TA support for EE 111, where I helped students with discrete-time signals, transforms, filtering, and system analysis.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+            },},{id: "teachings-biomolecular-computation",
+          title: 'Biomolecular Computation',
+          description: "TA support for CS/BE 191a, where I helped students connect molecular computation and DNA self-assembly to formal models of computation.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
