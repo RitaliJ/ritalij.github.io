@@ -62,11 +62,11 @@ cv:
 
     Engineering:
       - company: Lunar Trailblazer Mission, NASA Jet Propulsion Laboratory / Caltech
-        position: Mission Operations Intern, ACE Role
+        position: Mission Operations Intern
         location: Pasadena, CA
         start_date: 2024
         end_date: Present
-        summary: Conducted spacecraft systems simulations and supported mission operations monitoring in a safety-critical environment.
+        summary: Supported Lunar Trailblazer mission operations through spacecraft systems simulations, monitoring, and coordination in a safety-critical environment as part of the ACE operations workflow.
 
       - company: Goldman Sachs
         position: Incoming Engineering Risk Strats Summer Analyst

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of course and personal projects.
 nav: true
 nav_order: 2
-display_categories: [coursework]
+display_categories: [coursework, hardware, research]
 horizontal: false
 ---
 

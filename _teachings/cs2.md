@@ -11,7 +11,7 @@ category: teaching
 
 This was an undergraduate Data Structures course in Java that introduced students to core programming and algorithmic problem-solving through a sequence of increasingly sophisticated projects. As a TA, I supported students as they built confidence with Java fundamentals, data structures, and the design decisions behind efficient software.
 
-### Course Projects I TAed
+### Course Projects
 
 The course was structured around six major projects that progressively expanded students’ technical toolkit:
 
