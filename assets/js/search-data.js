@@ -407,13 +407,18 @@ ninja.data = [{
           section: "News",},{id: "news-started-my-internship-at-goldman-sachs-as-an-engineering-risk-strats-summer-analyst-in-the-model-risk-management-team",
           title: 'Started my internship at Goldman Sachs as an Engineering Risk Strats Summer Analyst...',
           description: "",
-          section: "News",},{id: "projects-hand-gesture-recognition-system",
+          section: "News",},{id: "projects-light-reactive-car",
+          title: 'Light-Reactive Car',
+          description: "A light-following robot car built with a Raspberry Pi Pico, photoresistors, and motor control hardware.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-hand-gesture-recognition-system",
           title: 'Hand Gesture Recognition System',
           description: "Real-time gesture recognition using a photodiode array, Arduino acquisition, and a PyTorch inference model.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-cs-145-food-delivery-system-modular-policies",
-          title: 'CS 145 Food Delivery System Modular Policies',
+            },},{id: "projects-food-delivery-system-modular-policies",
+          title: 'Food Delivery System Modular Policies',
           description: "Modular policy framework for dynamic food delivery assignment under changing demand and routing constraints.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -437,16 +442,41 @@ ninja.data = [{
           description: "Theoretical and computational study of rare-event nucleation pathways in DNA self-assembly.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-ball-tracking-camera-robot",
+          title: 'Ball Tracking Camera Robot',
+          description: "Autonomous object detection and tracking using a gimbal, OpenCV, and motion planning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-run-3-from-cool-math-games-recreation",
+          title: 'Run 3 from Cool Math Games Recreation',
+          description: "Recreated the game in C with custom sprite rendering, keyboard controls, and a physics engine.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-hall-effect-mini-piano",
+          title: 'Hall Effect Mini Piano',
+          description: "Arduino-based musical instrument using Hall effect sensing for expressive key tracking.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
+            },},{id: "teachings-cs-143-networks-algorithms-amp-architecture",
+          title: 'CS 143: Networks: Algorithms &amp;amp; Architecture',
+          description: "Teaching Assistant, Fall 2024",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/cs143/";
+            },},{id: "teachings-introduction-to-machine-learning",
+          title: 'Introduction to Machine Learning',
+          description: "This course introduces machine learning through a broad lens of computational intelligence, including supervised and unsupervised learning, model evaluation, and practical implementations, while also exploring emergent systems such as deterministic cellular automata, reaction-diffusion models, toy CPU architectures, self-assembly, code emergence, ecological dynamics, and self-replicating algorithms.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/cs191/";
+            },},{id: "teachings-cs-2-data-structures",
+          title: 'CS 2: Data Structures',
+          description: "Teaching Assistant, Winter 2025",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/cs2/";
             },},{id: "teachings-signal-processing-systems-and-transforms",
           title: 'Signal-Processing Systems and Transforms',
           description: "TA support for EE 111, where I helped students with discrete-time signals, transforms, filtering, and system analysis.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-biomolecular-computation",
-          title: 'Biomolecular Computation',
-          description: "TA support for CS/BE 191a, where I helped students connect molecular computation and DNA self-assembly to formal models of computation.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/ee111/";
             },},{
         id: 'social-email',
         title: 'email',
