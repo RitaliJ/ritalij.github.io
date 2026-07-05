@@ -7,4 +7,4 @@ category: coursework
 tags: [GPU Computing, CUDA, Signal Processing]
 ---
 
-Implemented C++ and CUDA versions of the Fast Fourier–Chebyshev algorithm for filtering spatiotemporal graph signals. The project used NVIDIA cuFFT and cuSparse libraries, applied low-pass and nonseparable wavelet filtering to a dynamic mesh, and achieved a roughly 22x speedup over the CPU baseline. Key technologies: CUDA, cuFFT, cuSparse, and signal processing.
+Built custom CUDA kernels for real-time dynamic mesh filtering, applying spatiotemporal graph signal processing for control-oriented applications. I implemented the Fast Fourier–Chebyshev algorithm in C++ and CUDA, using cuFFT and cuSparse libraries to achieve roughly 22x speedup over CPU while maintaining strong parallel scaling on dense graph data. Key technologies: CUDA, cuFFT, cuSparse, and signal processing.
