@@ -462,9 +462,9 @@ ninja.data = [{
           description: "Teaching Assistant, Fall 2024",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cs143/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course introduces machine learning through a broad lens of computational intelligence, including supervised and unsupervised learning, model evaluation, and practical implementations, while also exploring emergent systems such as deterministic cellular automata, reaction-diffusion models, toy CPU architectures, self-assembly, code emergence, ecological dynamics, and self-replicating algorithms.",
+            },},{id: "teachings-cs191",
+          title: 'Cs191',
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cs191/";
             },},{id: "teachings-cs-2-data-structures",
@@ -472,9 +472,9 @@ ninja.data = [{
           description: "Teaching Assistant, Winter 2025",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cs2/";
-            },},{id: "teachings-signal-processing-systems-and-transforms",
-          title: 'Signal-Processing Systems and Transforms',
-          description: "TA support for EE 111, where I helped students with discrete-time signals, transforms, filtering, and system analysis.",
+            },},{id: "teachings-",
+          title: '',
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ee111/";
             },},{
