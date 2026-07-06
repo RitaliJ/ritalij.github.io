@@ -9,17 +9,17 @@ category: teaching
 
 **Instructor:** Adam Blank | **Role:** Teaching Assistant | **Term:** Winter 2025
 
-This was an undergraduate Data Structures course in Java that introduced students to core programming and algorithmic problem-solving through a sequence of increasingly sophisticated projects. As a TA, I supported students as they built confidence with Java fundamentals, data structures, and the design decisions behind efficient software.
+This undergraduate course introduced students to foundational programming and algorithmic problem-solving in Java. As a TA, I supported students through a progression of projects that built fluency in core language concepts, object-oriented design, and essential data structures such as linked lists, stacks, queues, hash tables, and trees.
 
-### Course Projects
+### Course Focus
+- Core Java programming and object-oriented design
+- Data structures and algorithmic implementation
+- Debugging, modular design, and problem decomposition
 
-The course was structured around six major projects that progressively expanded students’ technical toolkit:
-
-- **Ciphers** — An introduction to Java programming focused on string manipulation, logic, and the effective use of standard library tools.
-- **Hangman** — A project centered on Java collections, where students used lists, sets, and maps to model game state and implement modular solutions.
-- **HTML Fixer** — A problem-solving project that emphasized algorithmic efficiency and the practical use of stacks and queues to parse and repair malformed HTML.
-- **Synthesizer** — A project on custom data structures, where students implemented linked lists and queues to build a simplified audio synthesizer and think carefully about class design.
-- **Markov Model** — A more advanced assignment involving hash tables and binary search trees, with an emphasis on performance, hashing, and dynamic data structures.
-- **BeaverMaps** — A graph-based pathfinding project in which students modeled campus navigation and applied shortest-path algorithms such as Dijkstra’s to build a functional routing application.
-
-Across these projects, students developed a strong foundation in object-oriented programming, abstraction, debugging, and algorithmic thinking while learning how different data structures support different kinds of problems.
+### Major Projects
+- Ciphers
+- Hangman
+- HTML Fixer
+- Synthesizer
+- Markov Model
+- BeaverMaps
