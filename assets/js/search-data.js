@@ -462,9 +462,9 @@ ninja.data = [{
           description: "Teaching Assistant, Fall 2024",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cs143/";
-            },},{id: "teachings-cs191",
-          title: 'Cs191',
-          description: "",
+            },},{id: "teachings-cs-be-191a-biomolecular-computation",
+          title: 'CS/BE 191a: Biomolecular Computation',
+          description: "Teaching Assistant, Winter 2026",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cs191/";
             },},{id: "teachings-cs-2-data-structures",
@@ -472,9 +472,9 @@ ninja.data = [{
           description: "Teaching Assistant, Winter 2025",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cs2/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-ee-111-signal-processing-systems-and-transforms",
+          title: 'EE 111: Signal-Processing Systems and Transforms',
+          description: "Teaching Assistant, Fall 2025",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ee111/";
             },},{
