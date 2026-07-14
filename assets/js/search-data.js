@@ -398,7 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-optimal-retinal-ganglion-cell-allocation-under-fixed-channel-budgets-was-accepted-for-a-poster-presentation-at-the-9th-annual-conference-on-cognitive-computational-neuroscience",
+            },},{id: "news-attended-the-practicum-for-mathematicians-in-inverse-problems-and-data-assimilation-hosted-by-the-institute-of-pure-and-applied-mathematics-at-ucla",
+          title: 'Attended the Practicum for Mathematicians in Inverse Problems and Data Assimilation, hosted by...',
+          description: "",
+          section: "News",},{id: "news-competed-in-the-citadel-women-39-s-datathon-on-a-data-project-studying-how-housing-market-pricing-fluctuates-with-respect-to-regional-economic-health-indicators-explored-new-methods-like-dynamic-time-warping",
+          title: 'Competed in the Citadel Women&amp;#39;s Datathon on a data project studying how housing...',
+          description: "",
+          section: "News",},{id: "news-excited-to-embark-on-the-geneva-global-policy-trip-with-the-caltech-y-science-policy-talks-including-the-internet-society-international-telecommunications-agency-and-world-health-organization-among-many-others",
+          title: 'Excited to embark on the Geneva Global Policy Trip with the Caltech Y!...',
+          description: "",
+          section: "News",},{id: "news-optimal-retinal-ganglion-cell-allocation-under-fixed-channel-budgets-was-accepted-for-a-poster-presentation-at-the-9th-annual-conference-on-cognitive-computational-neuroscience",
           title: 'Optimal Retinal Ganglion Cell Allocation under Fixed Channel Budgets was accepted for a...',
           description: "",
           section: "News",},{id: "news-on-the-computational-power-of-nucleation-kinetics-was-accepted-as-a-track-c-submission-at-the-32nd-international-conference-on-dna-computing-and-molecular-programming-dna32",
