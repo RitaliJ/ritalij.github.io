@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-coursework",
+          title: "coursework",
+          description: "Graduate coursework in applied mathematics, statistics, machine learning, computation, and systems.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/coursework/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
