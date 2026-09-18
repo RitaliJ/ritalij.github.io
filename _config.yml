@@ -9,7 +9,7 @@ last_name: Jain
 contact_note: >
   Feel free to reach out by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ritali Jain — EE & Applied Math student at Caltech interested in complex systems, graph theory, and molecular computing.
+  Ritali Jain — Electrical Engineering student at Caltech interested in system dynamics, graph models, and computing hardware.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

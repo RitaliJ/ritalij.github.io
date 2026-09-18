@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my internship at Goldman Sachs as an Engineering Risk Strats Summer Analyst in the Model Risk Management team!
+Started my internship at Goldman Sachs in NYC as an Engineering Risk Strats Analyst in the Model Risk Management team!

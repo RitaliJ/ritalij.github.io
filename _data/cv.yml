@@ -46,6 +46,13 @@ cv:
         end_date: 2025
         summary: "Instructor: P. P. Vaidyanathan. Supported about 90 students in office hours and grading for discrete-time signals, transforms, filtering, and system analysis."
 
+      - company: CS 2 — Data Structures
+        position: Teaching Assistant
+        location: Pasadena, CA
+        start_date: 2025
+        end_date: 2025
+        summary: "Instructor: Adam Blank. Supported students in labs and office hours on Java, object-oriented design, debugging, and data-structure implementation."
+
       - company: CS/BE 191a — Biomolecular Computation
         position: Teaching Assistant
         location: Pasadena, CA
