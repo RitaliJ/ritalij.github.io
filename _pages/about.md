@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.caltech.edu/">California Institute of Technology</a> &mdash; EE &amp; Applied Math, B.S. expected 2027
+  <a href="https://www.caltech.edu/">California Institute of Technology</a> &mdash; EE &amp, B.S. expected 2027
 
 profile:
   align: right
