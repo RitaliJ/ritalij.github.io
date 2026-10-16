@@ -121,7 +121,7 @@
 
 \resumeSubheading
   {Goldman Sachs}{Summer 2026}
-  {Incoming Engineering Risk Strats Summer Analyst, Model Risk Management Team}{New York, NY}
+  {Engineering Risk Strats Summer Analyst, Model Risk Management Team}{New York, NY}
   \resumeItemListStart
     \resumeItem{Selected for an engineering internship within the Model Risk Management team.}
     \resumeItem{Expected work at the intersection of quantitative engineering, financial risk systems, model validation, and computational infrastructure.}
@@ -129,7 +129,7 @@
 
 \resumeSubheading
   {Boeing, SI\&WS Optics, Photonics and Emerging Technologies Team}{Fall 2026}
-  {Incoming Technology Development Engineering Intern}{El Segundo, CA}
+  {Technology Development Engineering Intern}{El Segundo, CA}
   \resumeItemListStart
     \resumeItem{Selected for a technology development engineering internship focused on optics, photonics, and emerging technologies.}
     \resumeItem{Expected work includes addressing engineering challenges in cutting-edge optical communication systems for space.}
