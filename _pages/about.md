@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.caltech.edu/">California Institute of Technology</a> &mdash; EE &amp, B.S. expected 2027
+  <a href="https://www.caltech.edu/">California Institute of Technology</a> &mdash; EE B.S. expected 2027
 
 profile:
   align: right
@@ -32,6 +32,8 @@ I am a fourth-year Electrical Engineering undergraduate at Caltech, specializing
 In Professor Erik Winfree’s DNA and Algorithms Lab, I have explored them through molecular computation and self-assembly. My work has examined how local binding rules can encode solutions to hard problems, and how the dynamics of assembly affect which outcomes actually occur. It has made me especially interested in the relationship between a system’s intended computation and its behavior under physical constraints, noise, and perturbations.
 
 I am now interested in bringing that perspective to computing hardware. The behavior of an AI workload depends not only on its algorithm, but also on how data moves through memory, how operations are mapped onto hardware, and how faults or information leakage arise from those choices. Through CUDA and embedded-systems projects, I have begun exploring this interface between mathematical models and implementation. I hope to develop methods for understanding and designing computational systems that are efficient, robust, and secure.
+
+Outside of research, I enjoy playing tennis and photography. A subset of my photography collection is available on Instagram at [@randomwalksinbiology](https://www.instagram.com/randomwalksinbiology/).
 
 <!-- I am a rising fourth year undergraduate at the California Institute of Technology, studying Electrical Engineering with a specialization in Intelligent Systems.
 My broad academic interests lie in exploring the behavior and dynamics of complex systems. I'm interested in understanding how a simple set of rules or a group of properties can give rise to fascinating emergent phenomena — from molecular and neural systems to machine learning paradigms to economic and financial systems.
